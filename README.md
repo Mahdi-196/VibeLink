@@ -120,7 +120,7 @@
 ## Walkthrough Video
 
 A full walkthrough video demonstrating the functionality of the VibeLink API is available here:  
-[Watch Walkthrough Video](#)
+[Watch Walkthrough Video](https://drive.google.com/file/d/1vyRsBXkJCnk0YdISoKJdak4xQbgbeeCR/view)
 
 ## Credits
 
