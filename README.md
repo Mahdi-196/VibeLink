@@ -13,7 +13,6 @@
   - [Thought Routes](#thought-routes)
   - [Reaction Routes](#reaction-routes)
 - [Walkthrough Video](#walkthrough-video)
-- [Credits](#credits)
 - [License](#license)
 
 ---
@@ -121,11 +120,6 @@
 
 A full walkthrough video demonstrating the functionality of the VibeLink API is available here:  
 [Watch Walkthrough Video](https://drive.google.com/file/d/1vyRsBXkJCnk0YdISoKJdak4xQbgbeeCR/view)
-
-## Credits
-
-- **GitHub:** mahdi-196  
-- **Contact:** mahdighaleb196@gmail.com
 
 ## License
 
