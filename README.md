@@ -129,4 +129,4 @@ A full walkthrough video demonstrating the functionality of the VibeLink API is 
 
 ## License
 
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+MIT
